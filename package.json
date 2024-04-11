@@ -1,0 +1,16 @@
+{
+	"name": "qb-ox-convert",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.4.5",
+		"mysql": "^2.18.1"
+	}
+}
